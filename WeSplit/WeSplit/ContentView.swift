@@ -2,6 +2,9 @@
 //  ContentView.swift
 //  WeSplit
 //
+//  This app calculates how much each person should pay on an amount
+//  based on a given number of people and tip percentage
+//
 //  Created by Evan Law on 2023-12-21.
 //
 
