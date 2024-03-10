@@ -4,10 +4,12 @@ This repository contains the projects I have completed as part of the HackingWit
 
 ## Projects
 
-- [Project 1: Name](link-to-project-1)
-- [Project 2: Name](link-to-project-2)
-- [Project 3: Name](link-to-project-3)
-- ...
+- [Project 1: WeSplit](https://github.com/evanL7/SwiftUIProjects/tree/main/WeSplit)
+- [Project 2: GuessTheFlag](https://github.com/evanL7/SwiftUIProjects/tree/main/GuessTheFlag)
+- [Project 3: ViewsAndModifiers](https://github.com/evanL7/SwiftUIProjects/tree/main/ViewsAndModifiers)
+- [Project 4: BetterRest](https://github.com/evanL7/SwiftUIProjects/tree/main/BetterRest)
+- [Project 5: WordScramble](https://github.com/evanL7/SwiftUIProjects/tree/main/WordScramble)
+- [Project 7: iExpense](https://github.com/evanL7/SwiftUIProjects/tree/main/iExpense)
 
 ## Getting Started
 
